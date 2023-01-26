@@ -1,0 +1,5 @@
+
+ppython:S117"TRename this parameter "currTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ê¸‰×øÿÿÿÿ
+ppython:S117)"YRename this local variable "gridCopy" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜’—à
+ppython:S117C"YRename this local variable "gridCopy" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜’—à
+mpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(§¹È´

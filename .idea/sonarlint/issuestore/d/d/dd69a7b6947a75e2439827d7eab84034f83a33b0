@@ -1,0 +1,30 @@
+
+npython:S116$"RRename this field "computerAI" to match the regular expression ^[_a-z][_a-z0-9]*$.(Œ¾ØËøÿÿÿÿ
+fpython:S116<"PRename this field "prevTime" to match the regular expression ^[_a-z][_a-z0-9]*$.(ø§#
+ipython:S116#"RRename this field "numOfMoves" to match the regular expression ^[_a-z][_a-z0-9]*$.( ™šÜ
+gpython:S116%"PRename this field "playerAI" to match the regular expression ^[_a-z][_a-z0-9]*$.(¦¬Ñ¢
+rpython:S116("VRename this field "maxAllowedTile" to match the regular expression ^[_a-z][_a-z0-9]*$.(§Ùþãüÿÿÿÿ
+opython:S116 "XRename this field "possibleNewTiles" to match the regular expression ^[_a-z][_a-z0-9]*$.(ŸÉ¯
+mpython:S116""QRename this field "initTiles" to match the regular expression ^[_a-z][_a-z0-9]*$.(›Øä×ýÿÿÿÿ
+rpython:S117,"VRename this parameter "computerAI" to match the regular expression ^[_a-z][a-z0-9_]*$.(ºì††úÿÿÿÿ
+mpython:S100,"QRename method "setComputerAI" to match the regular expression ^[a-z_][a-z0-9_]*$.(ºì††úÿÿÿÿ
+kpython:S117/"TRename this parameter "playerAI" to match the regular expression ^[_a-z][a-z0-9_]*$.(°¹Û­
+fpython:S100/"ORename method "setPlayerAI" to match the regular expression ^[a-z_][a-z0-9_]*$.(°¹Û­
+lpython:S1002"PRename method "setDisplayer" to match the regular expression ^[a-z_][a-z0-9_]*$.(–Õòíýÿÿÿÿ
+ppython:S1175"TRename this parameter "currTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ê¸‰×øÿÿÿÿ
+kpython:S1005"ORename method "updateAlarm" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ê¸‰×øÿÿÿÿ
+@python:S108:")Either remove or fill this block of code.(ã‘Û¾
+ppython:S117L"YRename this local variable "gridCopy" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚Êï
+tpython:S117F"XRename this local variable "maxTile" to match the regular expression ^[_a-z][a-z0-9_]*$.(ëÀŸ§øÿÿÿÿ
+=python:S1481?"%Remove the unused local variable "i".(Á˜‚™
+qpython:S3776>"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(ùÇÄÍúÿÿÿÿ
+jpython:S100u"NRename method "isGameOver" to match the regular expression ^[a-z_][a-z0-9_]*$.(°‚Ùúÿÿÿÿ
+opython:S100x"SRename method "getNewTileValue" to match the regular expression ^[a-z_][a-z0-9_]*$.(Îô¡‡üÿÿÿÿ
+qpython:S117"ZRename this local variable "tileValue" to match the regular expression ^[_a-z][a-z0-9_]*$.(òÉóë
+ppython:S100~"TRename method "insertRandonTile" to match the regular expression ^[a-z_][a-z0-9_]*$.(³¯ËÇýÿÿÿÿ
+spython:S117‰"[Rename this local variable "computerAI" to match the regular expression ^[_a-z][a-z0-9_]*$.(Üõþƒ
+ypython:S117…"\Rename this local variable "gameManager" to match the regular expression ^[_a-z][a-z0-9_]*$.(Çõ§£ýÿÿÿÿ
+vpython:S117†"YRename this local variable "playerAI" to match the regular expression ^[_a-z][a-z0-9_]*$.(´õ´·ÿÿÿÿÿ
+gpython:S1542„"NRename function "PlayGame" to match the regular expression ^[a-z_][a-z0-9_]*$.(ˆóµ‡
+7python:S125‡"Remove this commented out code.(Œ…˜Æ
+>python:S1481™"%Remove the unused local variable "i".(Ü¦‘Ý

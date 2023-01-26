@@ -1,0 +1,5 @@
+
+Žpython:S101	"rRename class "PlayerAI_minimax_pruning" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(€«êÌùÿÿÿÿ
+ppython:S117"YRename this local variable "gridCopy" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜’—à
+ppython:S1175"YRename this local variable "gridCopy" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜’—à
+lpython:S3776w"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(§¹È´
